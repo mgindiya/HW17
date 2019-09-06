@@ -2839,11 +2839,11 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: goldenrod;
 		border-top: 0;
-		color: #c0c0c0;
+		color: goldenrod;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
+		padding: 2.05em 0 2em 0;
 	}
 
 		#footer .copyright {
