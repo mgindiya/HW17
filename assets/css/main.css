@@ -2724,7 +2724,7 @@ input, select, textarea {
 		}
 
 		#header a {
-			color: goldenrod;
+			color: #d4af37;
 		}
 
 			#header a:hover {
@@ -2839,9 +2839,9 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: goldenrod;
+		background: #d4af37;
 		border-top: 0;
-		color: goldenrod;
+		color: #d4af37;
 		overflow: hidden;
 		padding: 2.05em 0 2em 0;
 	}
